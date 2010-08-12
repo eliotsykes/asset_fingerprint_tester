@@ -1,0 +1,3 @@
+[submodule "vendor/plugins/asset_fingerprint"]
+	path = vendor/plugins/asset_fingerprint
+	url = git@github.com:eliotsykes/asset_fingerprint.git
