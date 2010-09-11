@@ -1,3 +1,5 @@
 This is a Rails app used for testing the AssetFingerprint plugin.  You probably do not want this repo, but maybe you want this instead:
 
 http://github.com/eliotsykes/asset_fingerprint
+
+To run tests: cd vendor/plugins/asset_fingerprint; rake test
