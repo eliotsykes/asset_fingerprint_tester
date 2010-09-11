@@ -3,3 +3,7 @@ This is a Rails app used for testing the AssetFingerprint plugin.  You probably 
 http://github.com/eliotsykes/asset_fingerprint
 
 To run tests: cd vendor/plugins/asset_fingerprint; rake test
+
+
+Note to Eliot: 
+Edit asset_fingerprint directly in this project as it is setup as a writeable git submodule.
